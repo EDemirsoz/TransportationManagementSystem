@@ -16,11 +16,11 @@ The TMS system is a critical part of the shipping and logistics industry, allowi
 
 The TMS solution prototype is a system that allows Fake Shipping Handling and Transportation (FSHT) staff members to manage the order creation, management, and billing process for the company. Specific, high-level functional stories and workflows are as follows:
 
-	- Call for, take, and then plan orders from the Contract Marketplace.
-	- Planning an order requires that the requested cargo be assigned to one or more available Carriers (e.g. Trucking Companies) that FSHT has relationships with.
-	- Carriers provide the Trips necessary to deliver Orders to their destination.
-	- Once scheduled, the TMS can simulate the passage of time allowing for updates on the Carrier’s trucks to be requested from the Carrier Update System.
-	- Once Orders are completed, the TMS system will compute the final bill for the Customer, and post the invoice to the accounts system.
+- Call for, take, and then plan orders from the Contract Marketplace.
+- Planning an order requires that the requested cargo be assigned to one or more available Carriers (e.g. Trucking Companies) that FSHT has relationships with.
+- Carriers provide the Trips necessary to deliver Orders to their destination.
+- Once scheduled, the TMS can simulate the passage of time allowing for updates on the Carrier’s trucks to be requested from the Carrier Update System.
+- Once Orders are completed, the TMS system will compute the final bill for the Customer, and post the invoice to the accounts system.
 ## Tech Stack
 The TMS solution is a WPF GUI application with a MySQL database backend. 
 
