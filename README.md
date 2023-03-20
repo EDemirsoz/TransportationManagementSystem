@@ -36,4 +36,6 @@ To use the application, follow these steps:
 
 ## Demo
 
-Insert gif or link to demo
+https://user-images.githubusercontent.com/64825806/226428935-b6e8ae3c-ed13-4124-974b-3b85362018be.mp4
+
+
